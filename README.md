@@ -17,13 +17,15 @@ Visit [klts.io](https://klts.io/) for in-depth information about using KLTS.
 ## Community meeting
 
 Regular KTLS Meeting: Tuesday at 23:00 PT (Pacific Time) (biweekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=11:00&tz=PT%20%28Pacific%20Time%29).
-  * [Meeting notes and Agenda]().
+  * [Meeting notes and Agenda](https://docs.google.com/document/d/12JsF31Tw8FtBM6gfJkcL5WJwQGUqYcCjyeHRWDzrDqo/edit#).
   * [Meeting recordings]().
 
 
 ## Contact
 
-* sclak: [# klts](https://klts.slack.com/archives/C02H8DMB6SZ)
+* slack: [# klts](https://klts.slack.com/archives/C02H8DMB6SZ)
+
+* metting: [klts](https://meeting.tencent.com/dm/PkJXF9cytpxe)
 
 * [Open Community Issues/PRs](https://github.com/klts-io/kubernetes-lts/issues)
 

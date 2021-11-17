@@ -23,7 +23,7 @@ Regular KTLS Meeting: Tuesday at 23:00 PT (Pacific Time) (biweekly). [Convert to
 
 ## Contact
 
-* sclak: [# klts](https://klts.slack.com/archives/C02H8DMB6SZ)
+* slack: [# klts](https://klts.slack.com/archives/C02H8DMB6SZ)
 
 * [Open Community Issues/PRs](https://github.com/klts-io/kubernetes-lts/issues)
 

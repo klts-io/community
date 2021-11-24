@@ -23,7 +23,7 @@ Regular KTLS Meeting: Tuesday at 23:00 PT (Pacific Time) (biweekly). [Convert to
 
 ## Contact
 
-* slack: [# klts](https://klts.slack.com/archives/C02H8DMB6SZ)
+* slack: [klts](https://join.slack.com/t/klts/shared_invite/zt-za36806q-6PWB_yRRY9rP78orYVonig)
 
 * metting: [klts](https://meeting.tencent.com/dm/PkJXF9cytpxe)
 

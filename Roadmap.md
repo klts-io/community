@@ -1,29 +1,26 @@
 # RoadMap
 
 ## 2021 Q3
-- [x] KLTS 启动
+- [x] KLTS started
 - [x] Kubernetes LTS
 - [x] KLTS.io website
 - [x] KLTS UT
-- [x] 国内镜像加速
 
 ## 2021 Q4
-- [x] lts.1 发布
-- [x] 支持 Centos/Ubuntu
-- [x] 一键安装
-- [ ] 一键升级到 KLTS 版本
+- [x] lts.1 releases
+- [x] Support Centos/Ubuntu
+- [x] One click install
+- [ ] Switch to KLTS version
 
 ## 2022 Q1-Q4
 - [ ] Containerd LTS
 - [ ] Runc LTS
-- [ ] 离线安装
-- [ ] E2E 测试多操作系统
-- [ ] 支持 ARM
-- [ ] 支持麒麟系统
-- [ ] 支持跨版本升级
-- [ ] 升级速度评估 Benchmark
-- [ ] 项目进入 CNCF Sandbox
-- [ ] 支持 Fedora
-- [ ] 支持 Opensuse
-- [ ] 云原生组件和系统性能调优
+- [ ] Offline install
+- [ ] E2E Test multiple OS
+- [ ] Support ARM architecture
+- [ ] Support Kylin OS
+- [ ] Support Fedora OS
+- [ ] Support Opensuse OS
+- [ ] Support cross-version upgrade
+- [ ] Upgrade speed assessment Benchmark
 
